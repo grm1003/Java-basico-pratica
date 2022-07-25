@@ -12,8 +12,8 @@ public class Leitor {
     int b = Integer.parseInt(array[1]);
     int soma = a + b;
     int subtracao = a - b;
-    System.out.println("a soma desses número é "+ soma);
-    System.out.println("a subtração desses número é "+ subtracao);
+    System.out.println("a soma desses nï¿½mero ï¿½ "+ soma);
+    System.out.println("a subtraï¿½ï¿½o desses nï¿½mero ï¿½ "+ subtracao);
     
     
     
